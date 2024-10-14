@@ -25,13 +25,13 @@ Ingresando esto se mostrarán todos los archivos de cartola que has recibido.
 El programa sólo considerará los registros desde el 01 de julio en adelante, así que no servirá descargar información de meses anteriores.
 
 ### Paso 2:
-Descarga el archivo ejecutable "ProcesadorCartolas.exe"
+Descarga el archivo ejecutable "ProcesadorCartolas.exe" ([click aquí para descargarlo](https://github.com/sebsatian/ProcesarCartolaCuentaRUT2-2024/raw/refs/heads/main/ProcesadorCartolas.exe))
 
 ### Paso 3:
 Crea una carpeta e ingresa todas las cartolas descargadas, junto al archivo "ProcesadorCartolas.exe" que acabas de descargar.
 
 ### Paso 4:
-Haz doble click en el archivo ejecutable "ProcesadorCartolas.exe", se abrirá el programa y te pedirá la contraseña de los archivos. Por defecto, la contraseña que BancoEstado establece para estos archivos serán los últimos 4 números de tu rut antes del guión (-).
+Haz doble click en el archivo ejecutable "ProcesadorCartolas.exe", (si te sale un anuncio de Windows, sólo presiona "Más información" y "Ejecutar de todas formas") se abrirá el programa y te pedirá la contraseña de los archivos. Por defecto, la contraseña que BancoEstado establece para estos archivos serán los últimos 4 números de tu rut antes del guión (-).
 
 `Si tu RUT es 12.345.678-9 ----> Tu contraseña será 5678 `
 
