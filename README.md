@@ -6,7 +6,6 @@ Creado en función de las nuevas normas del proyecto de ley publicadas por el SI
 
 Sólo para Windows.
 
-ESTE PROGRAMA QUEDARÁ OBSOLETO EL DÍA 01/01/2025.
 
 # Instrucciones de uso:
 #### El programa puede ejecutarse de dos maneras:
